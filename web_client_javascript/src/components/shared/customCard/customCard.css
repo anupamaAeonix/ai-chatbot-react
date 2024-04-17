@@ -1,0 +1,8 @@
+.custom-card-main-container {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 0.25rem dashed red;
+}
